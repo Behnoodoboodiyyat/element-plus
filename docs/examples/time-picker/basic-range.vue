@@ -4,7 +4,6 @@
       v-model="value1"
       :disabled-hours="disabledHours"
       :disabled-minutes="disabledMinutes"
-      :disabled-seconds="disabledSeconds"
       placeholder="Arbitrary time"
     />
   </div>
